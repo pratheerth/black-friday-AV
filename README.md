@@ -18,4 +18,4 @@ Scored a 2548 - RMSE
 
 ## Article
 
-I have written an article on going through the competition. Please find it here: 
+I have written an article on going through the competition. Please find it here: https://medium.com/@pratheerthpadman/av-black-friday-hackathon-348ba317cbf7
