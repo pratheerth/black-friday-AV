@@ -14,7 +14,7 @@ The data can be downloaded from here: https://datahack.analyticsvidhya.com/conte
 
 ## Results
 
-Scored a 2548 RMSE
+Scored a 2548 - RMSE
 
 ## Article
 
